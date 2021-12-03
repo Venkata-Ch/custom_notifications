@@ -1,0 +1,2 @@
+# django-notifications
+notifications app
